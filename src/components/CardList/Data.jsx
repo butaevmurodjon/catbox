@@ -5,7 +5,7 @@ export const CatList = [{
     subtitle: "с фуа-гра",
     text: "10 порций\nмышь в подарок",
     weight: "0,5",
-    feed: false,
+    feed: true,
     selected: false,
     selectedText:"Печень утки разварная с артишоками.",
     feedText: "Печалька, с фуа-гра закончился."
@@ -27,7 +27,7 @@ export const CatList = [{
     subtitle: "с курой",
     text: "100 порций\n5 мышей в подарок\nзаказчик доволен",
     weight: "5",
-    feed: true,
+    feed: false,
     selected: false,
     selectedText:"Филе из цыплят с трюфелями в бульоне.",
     feedText: "Печалька, с курой закончился."
