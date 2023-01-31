@@ -167,18 +167,18 @@ body {
 
             @media (min-width: 1366px) {
                 top: vw(-39);
-                left: vw(-37);
+                left: vw(-38);
                 width: vw(65);
-                height: vw(65);
-                border-right: vw(5) solid #1698D9;
+                height: vw(66);
+                border-right: vw(6) solid #1698D9;
             }
 
             @media (max-width: 1365px) {
                 top: -39px;
                 left: -37px;
                 width: 65px;
-                height: 65px;
-                border-right: 5px solid #1698D9;
+                height: 66px;
+                border-right: 6px solid #1698D9;
             }
         }
     }
