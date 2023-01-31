@@ -165,21 +165,20 @@ body {
             content: "";
             transform: rotate(45deg);
 
-
             @media (min-width: 1366px) {
-                top: vw(-30);
-                left: vw(-32);
-                width: vw(57);
-                height: vw(57);
-                border-right: vw(4) solid #1698D9;
+                top: vw(-39);
+                left: vw(-37);
+                width: vw(65);
+                height: vw(65);
+                border-right: vw(5) solid #1698D9;
             }
 
             @media (max-width: 1365px) {
-                top: -30px;
-                left: -32px;
-                width: 57px;
-                height: 57px;
-                border-right: 4px solid #1698D9;
+                top: -39px;
+                left: -37px;
+                width: 65px;
+                height: 65px;
+                border-right: 5px solid #1698D9;
             }
         }
     }
