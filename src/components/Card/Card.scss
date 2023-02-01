@@ -150,6 +150,7 @@ body {
             margin-bottom: vw(14);
             clip-path: polygon(vw(43) 0, 100% 0, 100% 100%, 0 100%, 0 vw(43));
             border-radius: vw(12);
+            border-top-left-radius: 36px;
         }
 
         @media (max-width: 1365px) {
@@ -158,6 +159,7 @@ body {
             margin-bottom: 14px;
             clip-path: polygon(43px 0, 100% 0, 100% 100%, 0 100%, 0 43px);
             border-radius: 12px;
+            border-top-left-radius: 36px;
         }
 
         &::before {
